@@ -1,0 +1,65 @@
+body{
+	background-color: rgb(234,234,234);
+	border: 0px;
+	margin: 0px;
+}
+
+.navbar{
+	width: 100%;
+	height: 90px;
+	background-color: rgb(210,210,210);
+	color: rgb(234,234,234);
+	padding-top: 5%; 
+
+	
+
+}
+
+.navbar a{
+	font-size: 1.0em;
+    text-transform: uppercase;
+    list-style: none;
+    float: left;
+    width: 20%;
+}
+#linkref{
+	font-family: 'Source Sans Pro', sans-serif;
+	color: black;
+	text-decoration: none;
+	padding: 15px;
+	text-align: center;
+
+}
+
+.logo{
+	max-width: 65px;
+	height: auto;
+}
+.jumbotron {
+  background-image: 
+  	linear-gradient(
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.3)
+    ),
+    url("watoto jumbotron.jpg");
+  background-size: cover;
+  height: 100%;
+
+}
+
+#h1_home{
+	color:rgb(255,255,255);
+}
+
+#p_home{
+	color:rgb(235,235,235);
+}
+
+.footer1 {
+	width:100%;
+ 	height:20%;
+  	position:absolute;
+  	bottom:0;
+	background-color: #F2FFFE;
+	
+}
